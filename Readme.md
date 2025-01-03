@@ -36,7 +36,7 @@ BOOK-RECOMMENDATION-SYSTEM
 ## Installation
 
 - Navigate : `cd Book-Recommendation-System`
-- Install the required packages : `pip install -r requirements.txt`
+- Install the required packages.
 - Run the app : `streamlit run app.py`
 
 ## Technologies Used
