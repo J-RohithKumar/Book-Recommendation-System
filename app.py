@@ -76,5 +76,6 @@ if st.sidebar.button("Show Data"):
 # Social Links Section
 st.sidebar.title("Know More")
 col1,col2,col3=st.sidebar.columns(3)
-col1.link_button("Github","https://github.com/J-RohithKumar/Book-Recommendation-System")
-col2.link_button("LinkedIn","https://www.linkedin.com/in/rohithkumarjupalle/")
+col1.link_button("Colab","https://colab.research.google.com/drive/1AyOjDY6ocX9kOpWw_TFwijQf6D_Tg2Jg?usp=sharing")
+col2.link_button("Github","https://github.com/J-RohithKumar/Book-Recommendation-System")
+col3.link_button("LinkedIn","https://www.linkedin.com/in/rohithkumarjupalle/")
